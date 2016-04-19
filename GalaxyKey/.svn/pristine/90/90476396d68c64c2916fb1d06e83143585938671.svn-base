@@ -1,0 +1,56 @@
+.resume{
+    background-color: #191a11;
+    color: white;
+    text-align: center;
+    height: 40px;
+}
+
+.resumetxt{
+    padding-top: 10px;
+}
+
+.tabpanier{
+    width: 100%;
+    border-collapse:collapse;
+}
+.tabpanier td, td, th{
+    text-align: center;
+    border:1px solid black;
+    font-weight: bold;
+    width:20%;
+}
+
+.HT{
+font-size:90% ;
+color: gray;
+}
+
+.contents
+{
+    background-color:white;
+    height:auto;
+    padding:1% 4% 1% 4%;
+    margin: 0px 10% 2.5% 10%;
+    color:#8000ff;
+    font-family:Lato-Bold, sans-serif;
+}
+
+table .bordernone
+{
+    border: 0px;
+}
+
+button .bouton{
+    text-align: right;
+}
+
+.but
+{
+    margin-left:94%;
+    background-color: #8000ff;
+}
+
+.bouton a
+{
+text-decoration: none;
+color: white;

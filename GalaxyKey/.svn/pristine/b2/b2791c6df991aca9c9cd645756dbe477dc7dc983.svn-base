@@ -1,0 +1,33 @@
+.contents
+{
+    background-color:white;
+    height:auto;
+    padding:1% 4% 1% 4%;
+    margin: 0px 10% 2.5% 10%;
+    color:#191a18;
+    font-family:Lato-Bold, sans-serif;
+    list-style-type: none;
+}
+
+.contents ul
+{
+    padding: 3% 5% 0% 5%;
+    list-style-type: none;
+}
+
+.titre
+{
+    font-size: 1.5rem;
+    list-style-type: none;
+    color:#8000ff;
+    border-bottom: 1px dotted #8000ff;
+}
+
+li a{
+    text-decoration:none;
+    color :black;
+}
+/*
+.genre, .plateforme{
+    displqy: inline-block
+}*/

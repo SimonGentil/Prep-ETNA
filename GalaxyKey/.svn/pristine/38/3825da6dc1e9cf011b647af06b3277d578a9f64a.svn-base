@@ -1,0 +1,48 @@
+.contents
+{
+    background-color:white;
+    height:auto;
+    padding:1% 4% 1% 4%;
+    margin: 0px 10% 2.5% 10%;
+    color:black;
+    font-family:Lato-Bold, sans-serif;
+}
+
+.formul label{
+    padding : 0% 0% 0% 3%;
+    color: #191a18;
+    
+}
+
+.titreinscrip{
+    font-size: 1.61875rem;
+    text-decoration: none;
+    color: black;
+}
+
+.formul input{
+background: white;
+color: black;
+width: 94%;
+margin-left: 3%;
+margin-right: -10%;
+border: 1px solid #191a18;
+height: 2rem;
+font-size: 0.875rem
+}
+
+button .bouton{
+    text-align: right;
+}
+
+button
+{
+    margin-left:89%;
+    background-color: #8000ff;
+}
+
+.bouton a
+{
+text-decoration: none;
+color: white;
+}

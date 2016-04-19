@@ -1,0 +1,98 @@
+html {
+    height:100%;
+}
+
+#header {
+margin-top : 0px;
+width : auto;
+height : 115px;
+}
+
+#HeaderGauche {
+    background-color: #191a18;
+	padding: 25px 0px 0px 22%;
+    width : auto;
+    height: 115px;
+}
+
+#searchbar {
+width:auto;
+margin: -54px 15px 50px 0px;
+padding:0;
+height:20px;
+float:right;
+}
+
+.formulaire {
+display:inline-block;
+}
+
+.formulaire .champ {
+width:75%;
+height:25px;
+border-radius:20px;
+}
+
+.formulaire .bouton {
+background-image: url(../IMAGES/loupe.png);
+background-repeat: no-repeat;
+background-size:cover;
+width: 27px;
+height: 27px;
+padding: 0;
+border-radius:7px;
+}
+
+#HeaderDroit {
+    margin: -75px 22% 50px -40px;
+	background-color: #191a18;
+	width:auto;
+	height:50px;
+	color:white;
+	float:right;
+	font-size: 1em;
+	font-family:Lato-Light, sans-serif;
+    cursor:pointer;
+}
+.li_panier a
+{
+    text-decoration: none;
+    list-style-type:none;
+    color: white;
+}
+
+.li_panier{
+    text-decoration: none;
+    list-style-type:none;
+}
+
+.li_moncompte {
+    color:#8200ff;
+    text-decoration: none;
+    list-style-type:none;
+}
+.li_moncompte a
+{
+    text-decoration: none;
+    color:#8200ff;
+}
+.li_moncompte a:hover {
+    color:white;
+    text-decoration: none;
+}
+
+.key {
+   color:#8200ff;  
+}
+
+.li_panier a:hover {
+    list-style-type:none;
+    color: #8200ff;
+}
+
+.nbrproduit{
+    color:white;
+    margin-top:-18px;
+    margin-left:80px;
+    list-style-type:none;
+}

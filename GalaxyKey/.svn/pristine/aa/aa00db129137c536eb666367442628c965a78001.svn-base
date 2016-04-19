@@ -1,0 +1,115 @@
+#action
+{
+    background-color:white;
+    height:300px;
+    padding:1% 4% 1% 4%;
+    margin: 0px 10% 2.5% 10%;
+    color:#8200ff;
+    font-family:Lato-Bold, sans-serif;
+}
+.table
+{
+    width:auto;
+    height:auto;
+    text-align:center;
+}
+
+/* ---- IMAGE1 ---- */
+
+.image1
+{
+    float:left;
+    text-align:center;
+    cursor:pointer;
+}
+
+.image1 .plus
+{
+    color:white;
+    visibility:hidden;
+    margin-left: -135px;
+    height:220px;
+    padding:80px 35px 80px 35px;
+}
+
+.image1:hover .plus
+{
+    background-color:#8200ff;
+    visibility:visible;
+    opacity:0.7;
+}
+
+/* ---- IMAGE2 ---- */
+
+.image2
+{
+    margin-left: 9%;
+    margin-right:0;
+    float:left;
+    cursor:pointer;
+}
+
+.image2 .plus
+{
+    color:white;
+    visibility:hidden;
+    margin-left: -135px;
+    height:220px;
+    padding:80px 35px 80px 35px;
+}
+
+.image2:hover .plus
+{
+    background-color:#8200ff;
+    visibility:visible;
+    opacity:0.7;
+}
+/* ---- IMAGE3 ---- */
+.image3
+{
+    float:left;
+    margin-left: 9%;
+    margin-right:0;
+    cursor:pointer;
+}
+
+.image3 .plus
+{
+    color:white;
+    visibility:hidden;
+    margin-left: -135px;
+    height:220px;
+    padding:80px 35px 80px 35px;
+}
+
+.image3:hover .plus
+{
+    background-color:#8200ff;
+    visibility:visible;
+    opacity:0.7;
+    
+}
+
+/* ---- IMAGE4 ---- */
+.image4
+{
+    float:left;
+    margin-left: 9%;
+    cursor:pointer;
+}
+
+.image4 .plus
+{
+    color:white;
+    visibility:hidden;
+    margin-left: -135px;
+    height:220px;
+    padding:80px 35px 80px 35px;
+}
+
+.image4:hover .plus
+{
+    background-color:#8200ff;
+    visibility:visible;
+    opacity:0.7;
+}
