@@ -1,0 +1,27 @@
+#charte {
+    border:solid #272e38 2px;
+    padding:0px;
+    background-color: white;
+    -moz-border-radius-topleft:0px;
+    -moz-border-radius-topright:0px;
+    -moz-border-radius-bottomright:0px;
+    -moz-border-radius-bottomleft:0px;
+}
+
+#charte2 {
+    border:solid #272e38 2px;
+    padding:0px;
+    background-color: white;
+    -moz-border-radius-topleft:0px;
+    -moz-border-radius-topright:0px;
+    -moz-border-radius-bottomright:0px;
+    -moz-border-radius-bottomleft:0px;
+}
+
+/*#charte p {*/
+/*    float: left;*/
+/*}*/
+.col-xs-12
+{
+    background-color: transparent;
+}

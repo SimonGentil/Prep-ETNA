@@ -1,0 +1,12 @@
+.titretext {
+    color:#272e38;
+}
+
+.htext {
+    color:#272e38;
+}
+
+.col-xs-12 .titretext{
+    text-align:center;
+}
+

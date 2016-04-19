@@ -1,0 +1,26 @@
+#actu {
+    border:solid #272e38 2px;
+    padding:0px;
+    background-color:white;
+    -moz-border-radius-topleft:0px;
+    -moz-border-radius-topright:0px;
+    -moz-border-radius-bottomright:0px;
+    -moz-border-radius-bottomleft:0px;
+}
+
+.container-fluid .row {
+    bottom:0;
+    position:fixed;
+}
+
+@media only screen and (max-height:772px) and (max-width:994px) {
+ .container-fluid .row {
+    position:relative;
+ }
+}
+
+@media only screen and (max-height:752px) {
+ .container-fluid .row {
+    position:relative;
+ }
+}

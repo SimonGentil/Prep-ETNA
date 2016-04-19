@@ -1,0 +1,12 @@
+#temoi {
+    border:solid #272e38 2px;
+    padding:0px;
+    background-color:white;
+    -moz-border-radius-topleft:0px;
+    -moz-border-radius-topright:0px;
+    -moz-border-radius-bottomright:0px;
+    -moz-border-radius-bottomleft:0px;
+    margin-top:25px;
+    text-align:center;
+}
+

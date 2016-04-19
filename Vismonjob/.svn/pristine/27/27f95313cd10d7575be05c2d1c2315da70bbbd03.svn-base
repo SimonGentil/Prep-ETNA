@@ -1,0 +1,18 @@
+#professionnels {
+    border:solid #272e38 2px;
+    padding:0px;
+    background-color: white;
+    -moz-border-radius-topleft:0px;
+    -moz-border-radius-topright:0px;
+    -moz-border-radius-bottomright:0px;
+    -moz-border-radius-bottomleft:0px;
+}
+.col-xs-10 img
+{
+    border-radius: 50%;
+    margin: 30px;
+}
+.col-xs-10 img:hover
+{
+    border: #B6E1E2 solid 3px;
+}

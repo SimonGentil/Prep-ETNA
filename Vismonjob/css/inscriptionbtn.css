@@ -1,0 +1,16 @@
+.container-fluid .row {
+    bottom:0;
+    position:fixed;
+}
+
+@media only screen and (max-height:610px) and (max-width:994px) {
+ .container-fluid .row {
+    position:relative;
+ }
+}
+
+@media only screen and (max-height:480px) {
+ .container-fluid .row {
+    position:relative;
+ }
+}
