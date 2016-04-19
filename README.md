@@ -1,2 +1,6 @@
 # Prep-ETNA
-Repository dedicated to the projects dev in Prep'ETNA
+
+[FR]
+GalaxyKey - 
+  Premier site développé durant mon apprentissage.
+  Site de vente de clé CD dématérialisé.
